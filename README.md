@@ -2,12 +2,12 @@
 
 This repository contains an easy-to-use Google Colab notebook for running the **Krea-2 Turbo Q5_K_M GGUF** model. Powered by a ComfyUI backend, it allows you to generate high-quality AI images rapidly using optimized GGUF files and FP8 text encoders on a free T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=soon)
+**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=CnHwIZOWwzg)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1OPUso-UWTHyPprBVgINFncDqb0Bhs32I?usp=sharing)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/salman02-12/Krea-2-Turbo-in-Google-Colab/blob/main/Krea_2_Turbo_CoinNoin.ipynb)
-[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/DEMO)
+[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/S5BKTFXH2VQ3E)
 
 ---
 <img src="./thumbnail.png" width="100%" />

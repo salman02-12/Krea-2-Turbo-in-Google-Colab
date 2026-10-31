@@ -6,7 +6,7 @@ This repository contains an easy-to-use Google Colab notebook for running the **
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1OPUso-UWTHyPprBVgINFncDqb0Bhs32I?usp=sharing)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/salman02-12/Krea-2-Turbo-in-Google-Colab/blob/main/Krea_2_Turbo_CoinNoin.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/Krea-2-Turbo-in-Google-Colab/blob/main/Krea_2_Turbo_CoinNoin.ipynb)
 [![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/S5BKTFXH2VQ3E)
 
 ---
